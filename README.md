@@ -1,7 +1,12 @@
 # Olá! Eu sou o prof. Douglas Nunes 👋
 
-- 🔭 Atualmente estou trabalhando como professor Titular de cursos profissionalizantes, na área de TI, do Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS)
+- 🔭 Atualmente estou trabalhando como professor Titular de cursos profissionalizantes [área de TI] no Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS), campus Poços de Caldas
+<br>
+- 🔭 Tenho lecionado as seguintes disciplinas: Sistemas Operacionais, Redes de Computadores, Programação Web, Programação para Dispositivos Móveis
+<br>
 - 🌱 Recetentemente comecei a estudar sobre Agentes Inteligentes focados na análise e negociação de criptoativos
-- 👯 Estou em busca de projetos open-source para colaborar, envolvendo temas de Sistemas Operacionais, Redes de Computadores, Programação Web e agentes inteligentes
+<br>
+- 👯 Estou em busca de projetos open-source para colaborar, principalmente aqueles envolvendo areas como Sistemas Operacionais, Redes de Computadores, Programação Web e agentes inteligentes
+<br>
 - 📫 Canais de contato: youtube, instagram, linkedin
 
