@@ -12,12 +12,10 @@
 
 ## Minhas estatísticas
 
-<a href="https://github.com/douglasnunesif">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasunesif&show_icons=true&theme=radical" />
-</a>
+![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=douglasnunesif&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+## Tecnologias que mais utilizo
 
-[![Meus stats no GitHub](https://github-readme-stats.vercel.app/api?username=douglasnunesif)](https://github.com/douglasnunesif)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,java,c,html,css,js,react,mysql)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasnunesif&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+          
