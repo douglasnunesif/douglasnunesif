@@ -1,6 +1,6 @@
-# Olá! Eu sou o prof. Douglas Nunes 👋
+# Olá! Eu sou o Douglas Nunes 👋
 
-- 🔭 Atualmente estou trabalhando como professor Titular em cursos profissionalizantes [área de TI] do Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS), campus Poços de Caldas  
+- 🔭 Atualmente estou trabalhando como professor em cursos profissionalizantes [área de TI] do Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS), campus Poços de Caldas  
   
 - 🔭 Tenho lecionado as seguintes disciplinas: Sistemas Operacionais, Redes de Computadores, Programação Web, Programação para Dispositivos Móveis  
 
