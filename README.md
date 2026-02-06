@@ -6,16 +6,38 @@
 
 - 🌱 Recetentemente comecei a estudar sobre Agentes Inteligentes focados na análise e negociação de criptoativos  
 
-- 👯 Estou em busca de projetos open-source para colaborar, principalmente aqueles envolvendo areas como Sistemas Operacionais, Redes de Computadores, Programação Web e agentes inteligentes  
+- 👯 Estou em busca de projetos open-source para colaborar, principalmente aqueles envolvendo areas como Sistemas Operacionais, Redes de Computadores, Programação Web e agentes inteligentes
 
-- 📫 Canais de contato: youtube, instagram, linkedin  
+- 📫 Canais de contato: youtube, instagram, linkedin
+  
 
 ## Minhas estatísticas
 
-![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=douglasnunesif&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=douglasnunesif&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  
 
-## Tecnologias que mais utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=aws,git,java,c,html,css,js,react,mysql)](https://skillicons.dev)
+## Tecnologias que mais utilizo  
 
+[![My Skills](https://skillicons.dev/icons?i=aws,git,java,c,html,css,js,react,mysql)](https://skillicons.dev)  
+
+
+## 🌐 Minhas Redes Sociais
+
+<div align="left">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/douglas-fabiano-de-sousa-nunes-0933a714" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/@douglasfabianodesousanunes7275" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://x.com/douglasfnunes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
           
